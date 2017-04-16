@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookMyBook</string>
+    <string name="title_activity_log_in_sign_up">LogInSignUpActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forgotPassword"><u>Forgot password</u></string>
+    <string name="ResendVerifyCode"><u>Resend varification code</u></string>
+    <string name="EditPhoneNumber"><u>Edit phone number</u></string>
+</resources>
